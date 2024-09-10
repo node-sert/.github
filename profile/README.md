@@ -35,6 +35,14 @@
 
 ---
 
+<h3 align="center">🟢Kuzco🟢</h3>
+
+<div align="center">
+  <a href="https://nodesert.gitbook.io/nodesert/kuzco-node">Nodesert docs</a>
+</div>
+
+---
+
 <h3 align="center">🟡Ojo🟡</h3>
 
 <h4 align="center">In development</h4>
