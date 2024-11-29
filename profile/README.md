@@ -11,6 +11,18 @@
 
 <h1 align="center">Supported Projects</h1>
 
+<h3 align="center">🟢Shardeum🟢</h3>
+
+<div align="center">
+  <a href="https://nodesert.gitbook.io/nodesert/shardeum">Nodesert docs</a>
+</div>
+
+<h3 align="center">🟢Particle🟢</h3>
+
+<div align="center">
+  <a href="https://nodesert.gitbook.io/nodesert/particle">Nodesert docs</a>
+</div>
+
 <h3 align="center">🟢0G🟢</h3>
 
 <div align="center">
